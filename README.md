@@ -1,2 +1,2 @@
-# IA_python_e_r
+# IA com Python e R
 Curso de inteligência artificial com python e R
